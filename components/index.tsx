@@ -3,7 +3,7 @@ import Hero from './Hero'
 
 function Index() {
   return (
-    <div><Hero/></div>
+    <div className='overflow-hidden'><Hero/></div>
   )
 }
 
